@@ -23,6 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Agent":
-        filters: ["SLAM", "Visual Odometry"]
+        filters: ["LLM", "Visual Odometry"]
     "Visual Program"
+        filters: ["SLAM", "Visual Odometry"]
     
