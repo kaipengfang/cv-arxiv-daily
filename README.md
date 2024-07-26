@@ -2627,6 +2627,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|null|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
@@ -2673,6 +2674,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|null|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
