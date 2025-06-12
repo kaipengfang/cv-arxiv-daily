@@ -2605,6 +2605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
@@ -2709,6 +2710,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
